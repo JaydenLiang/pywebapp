@@ -14,7 +14,7 @@ class Default:
         return """<html>
         <title>PyWebApp</title>
         <body bgcolor="cyan">
-        <h1>Hello AWS Pipeline!</h1>
+        <h1>Hello COMP4913 & AWS CodePipeline!</h1>
         <p>Available API methods:</p>
         <ul>
         <li><a href="/api/v1/test">/api/v1/test</a></li>
